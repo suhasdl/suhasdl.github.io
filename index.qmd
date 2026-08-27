@@ -23,7 +23,7 @@ about:
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:suhasdl@colorado.edu    
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
