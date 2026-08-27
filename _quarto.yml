@@ -102,8 +102,8 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 format:
   html:
     theme:
-	light: flatly
-	dark: darkly
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
     footnotes-hover: true
