@@ -4,21 +4,18 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+::: {.text-center style="margin-top: 2rem;"}
 
-**Quarto Academic**
+### Get in Touch
 
-School
+<i class="fa-solid fa-envelope"></i> **Email**
+[suhasdl@colorado.edu](mailto:suhasdl@colorado.edu)
 
-College
+::: {.mt-4}
+<i class="fa-solid fa-location-dot"></i> **Address**
+Department of Atmospheric and Oceanic Sciences
+University of Colorado Boulder
+Boulder, CO 80309
+:::
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
-
-</center>
+:::

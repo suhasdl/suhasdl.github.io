@@ -1,34 +1,92 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
+description-meta: "Peer-reviewed journal articles and research preprints"
 title-block-banner: false
-css: custom.css
 ---
 
+## Peer-Reviewed Journal Articles
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+[Marine heatwaves in the Arabian Sea: Drivers and impacts on atmospheric circulation and extreme precipitation]{.paper-title}<br>
+[D L Suhas]{.me}, Weiqing Han, Toshiaki Shinoda, Rui Sun, Aneesh Subramanian, Mark Bourassa, Michael Alexander<br>
+[*Journal of Climate*]{.paper-journal} · 2026
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1175/JCLI-D-25-0458.1){.btn .btn-outline-secondary .btn-sm role="button"}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
-
-Total citations as of January 2025:
-
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
-
-## Selected Work
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+<hr class="paper-divider">
 
 
-<center><hr style="width:50%"></center>
+[Large-scale climate oscillations induce accelerated high tide flooding along the US East Coast]{.paper-title}<br>
+Yingli Zhu, Weiqing Han, Oluwayemi Garuba, [D L Suhas]{.me}, Lai-yung Ruby Leung, Aneesh C Subramanian, Karthik Balaguru, Gengxin Chen, Luke Van Roekel, Jianing Wang<br>
+[*Communications Earth & Environment*]{.paper-journal} · 2026
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1038/s43247-026-03932-y){.btn .btn-outline-secondary .btn-sm role="button"}
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<hr class="paper-divider">
 
+[Co‐occurring atmospheric features and their contributions to precipitation extremes]{.paper-title}<br>
+Wei‐Ming Tsai, Suqin Duan, Travis A O’Brien, Jennifer L Catto, Paul A Ullrich, Yang Zhou, L Ruby Leung, Zhe Feng, William R Boos, [D L Suhas]{.me}, Fiaz Ahmed, J David Neelin<br>
+[*Journal of Geophysical Research: Atmospheres*]{.paper-journal} · 2025
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1029/2024JD041687){.btn .btn-outline-secondary .btn-sm role="button"}
 
+<hr class="paper-divider">
 
-<!--Include social share buttons-->
+[Automated operational forecasting of monsoon low pressure systems]{.paper-title}<br>
+[D L Suhas]{.me}, S Vishnu, Salil Goyal, Sahadat Sarkar, Parthasarathi Mukhopadhyay, Paul A Ullrich, William R Boos<br>
+[*Bulletin of the American Meteorological Society*]{.paper-journal} · 2024
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1175/BAMS-D-23-0067.1){.btn .btn-outline-secondary .btn-sm role="button"}
 
-{{< include /files/includes/_socialshare.qmd >}}
+<hr class="paper-divider">
+
+[Evaluating ensemble predictions of South Asian monsoon low pressure system genesis]{.paper-title}<br>
+[D L Suhas]{.me}, William R Boos<br>
+[*Weather and Forecasting*]{.paper-journal} · 2024
+[<i class="fa-solid fa-book-bookmark"></i> DOI](10.1175/WAF-D-24-0044.1){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Influence of monsoon low pressure systems on South Asian disasters and implications for disaster prediction]{.paper-title}<br>
+[D L Suhas]{.me}, Nandini Ramesh, Ram M Kripa, William R Boos<br>
+[*npj Climate and Atmospheric Science*]{.paper-journal} · 2023
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1038/s41612-023-00376-5){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Monsoon depression amplification by horizontal shear and humidity gradients: a shallow water perspective]{.paper-title}<br>
+[D L Suhas]{.me}, William R Boos<br>
+[*Journal of the Atmospheric Sciences*]{.paper-journal} · 2023
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1175/JAS-D-22-0146.1){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Turbulence and equatorial waves in moist and dry shallow‐water flow, excited through mesoscale stochastic forcing]{.paper-title}<br>
+J Schröttle, [D L Suhas]{.me}, N Harnik, J Sukhatme<br>
+[*Quarterly Journal of the Royal Meteorological Society*]{.paper-journal} · 2022
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1002/qj.4220){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Dry and moist atmospheric circulation with uniform sea‐surface temperature]{.paper-title}<br>
+[D L Suhas]{.me}, J Sukhatme, N Harnik<br>
+[*Quarterly Journal of the Royal Meteorological Society*]{.paper-journal} · 2022
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1002/qj.4191){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Moist shallow‐water response to tropical forcing: Initial‐value problems]{.paper-title}<br>
+[D L Suhas]{.me}, J Sukhatme<br>
+[*Quarterly Journal of the Royal Meteorological Society*]{.paper-journal} · 2020
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1002/qj.3867){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Tropical vorticity forcing and superrotation in the spherical shallow-water equations]{.paper-title}<br>
+[D L Suhas]{.me}, J Sukhatme,  Joy M. Monteiro<br>
+[*Quarterly Journal of the Royal Meteorological Society*]{.paper-journal} · 2017
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1002/qj.2979){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">
+
+[Low frequency modulation of jets in quasigeostrophic turbulence]{.paper-title}<br>
+[D L Suhas]{.me}, J Sukhatme<br>
+[*Physics of Fluids*]{.paper-journal} · 2015
+[<i class="fa-solid fa-book-bookmark"></i> DOI](https://doi.org/10.1063/1.4905710){.btn .btn-outline-secondary .btn-sm role="button"}
+
+<hr class="paper-divider">

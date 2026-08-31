@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Suhas Dasenahalli Lingaraju</title>
+<title>Suhas D L</title>
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Quarto Academic Website Template adapted by Dr. Gang He</description>
 <image>
 <url>https://suhasdl.github.io</url>
-<title>Suhas Dasenahalli Lingaraju</title>
+<title>Suhas D L</title>
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
@@ -30,7 +30,6 @@
   <dc:creator>Event </dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
   <description><![CDATA[ 
-
 
 
 
@@ -65,7 +64,6 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>About the news</p>
@@ -96,7 +94,6 @@ https://quarto.org/docs/authoring/includes.html
   <dc:creator>Nathan Rosen</dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
   <description><![CDATA[ 
-
 
 
 

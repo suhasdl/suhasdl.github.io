@@ -1,1 +1,46 @@
 /* css styles */
+
+#hero-heading p:first-child {
+  font-size: 2rem !important;
+  line-height: 1.4 !important;
+}
+
+
+/* Paper entry typography */
+.paper-title {
+  font-size: 1.15em;
+  font-weight: 700;
+  color: #111111;
+}
+
+.paper-authors {
+  color: #444444;
+}
+
+.paper-journal {
+  font-style: italic;
+  color: #555555;
+}
+
+.me {
+  font-weight: 900 !important;
+  color: #000000 !important;
+}
+
+a.btn.btn-sm {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.4rem;
+  line-height: 1;
+  vertical-align: middle;
+  margin-left: 0.6em;
+  position: relative;
+  top: -2px; /* Pulls the button up 2px to align cleanly with text */
+}
+
+/* Lighter, thinner horizontal rules for publications */
+hr.paper-divider {
+  border: none;
+  border-top: 1px solid #eeeeee;
+  margin: 1.5em 0;
+  opacity: 1; /* Ensures Bootstrap doesn't artificially fade it */
+}
