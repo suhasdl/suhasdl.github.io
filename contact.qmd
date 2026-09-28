@@ -8,14 +8,16 @@ title-block-banner: false
 
 ### Get in Touch
 
-<i class="fa-solid fa-envelope"></i> **Email**
+<p class="mb-4">
+<i class="fa-solid fa-envelope"></i> **Email**<br>
 [suhasdl@colorado.edu](mailto:suhasdl@colorado.edu)
+</p>
 
-::: {.mt-4}
-<i class="fa-solid fa-location-dot"></i> **Address**
-Department of Atmospheric and Oceanic Sciences
-University of Colorado Boulder
+<p class="mt-4">
+<i class="fa-solid fa-location-dot"></i> **Address**<br>
+Department of Atmospheric and Oceanic Sciences<br>
+University of Colorado Boulder<br>
 Boulder, CO 80309
-:::
+</p>
 
 :::

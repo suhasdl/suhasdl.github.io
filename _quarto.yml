@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
-    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+  # pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+  #   - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
 
 # Meta
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
@@ -21,7 +21,7 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
-      - text: Research
+#      - text: Research  # Commented out temporarily, will edit later
       - text: Publications  # Manually curated list of publications
         href: publications.qmd
       - text: Contact
@@ -37,7 +37,7 @@ website:
 
     right:
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/CV.pdf
       - icon: github
         href: https://github.com/suhasdl
         target: _blank
